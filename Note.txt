@@ -38,4 +38,3 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 要克隆一个仓库，首先必须知道仓库的地址，然后使用git clone命令克隆。
 $ git clone git@github.com:dapao662/gitskills.git
 Git支持多种协议，包括https，但ssh协议速度最快。
-
