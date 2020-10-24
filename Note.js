@@ -32,5 +32,5 @@
         branch: master(分支根据你的命名)
     运行npm run deploy或hexo deploy-->完成后打开GitHub仓库首页可以看到打包生成的产物已经提交到了master分支上,master分支上的代码其实就是hexo项目生成的public目录下的文件
     点击仓库首页的setting-->找到GitHub Pages--》可以看到已经部署到https://dapao662.github.io/
-    
+    lalala
 */
