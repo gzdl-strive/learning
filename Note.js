@@ -70,4 +70,9 @@
     git commit -m "xxx"
     git push
     然后在仓库首页可以看到多了个小黄点，点击进去，就会构建
+8、如果直接在github上修改的话，本地仓库再提交就会报错，需要先更新一
+    git pull
+    然后在git add . 
+    git commit -m "xx"
+    git push
 */
